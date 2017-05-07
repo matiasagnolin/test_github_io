@@ -757,13 +757,30 @@ body {
 }
 .chinito{
   float:left;
+
 }
 .mylife{
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 2em;
+  float:right;
+  background-color: rgba(254,209,54,0.9);
 }
 
+.mylife p{
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  color:white;
+  text-decoration: none;
+  text-align: justify;
+
+}
+#first{
+  float:left;
+  margin-left: 10px;
+}
+#third{
+  margin-top: 20px;
+}
 
 .marco1 {
-   border: 1px solid #000000;
+   border: 3px solid #000000;
+   border-color: rgba(254,209,54,0.9);
 }
